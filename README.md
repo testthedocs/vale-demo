@@ -8,7 +8,7 @@ Flexible English language linter with dozens of predefined checks.
 
 ## Dependencies
 
-- `Docker <https://docker.com>`_
+- [Docker](https://docker.com)
 
 ## Usage
 
@@ -30,5 +30,5 @@ If you are having issues, please let us know.
 
 ## License
 
-`MIT <https://choosealicense.com/licenses/mit/>`_
+[MIT](https://choosealicense.com/licenses/mit)
  
