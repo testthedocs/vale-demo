@@ -1,0 +1,28 @@
+# This goes in a file named either `.vale.ini` or `_vale.ini`.
+
+StylesPath = styles
+#StylesPath = styles
+MinAlertLevel = warning # suggestion, warning or error
+
+# Only Markdown and .rst files; change to whatever you're using.
+[*.{md,rst}]
+# List of styles to load.
+#BasedOnStyles = proselint, ttd
+proselint.But = suggestion
+proselint.Diacritical = suggestion
+proselint.GenderBias = error
+proselint.Uncomparables = warning
+proselint.Very = warning
+proselint.Simple = warning
+#plone.Header = warning
+#plone.Readability = warning
+#plone.Quotes = warning
+ttd.Anthropomorphism = warning
+ttd.Terms = warning
+ttd.ThereIs = error
+ttd.Wording = warning
+ttd.E-Prime = suggestion
+ttd.Spacing = warning
+ttd.Ages = warning
+ttd.OxfordComma = warning
+ttd.GenderBias = error

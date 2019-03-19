@@ -1,4 +1,7 @@
 linter
 linters
 documentarian
-Markdown
+markdown
+onboarding
+tikkie
+Tikkie

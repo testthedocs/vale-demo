@@ -2,6 +2,8 @@
 
 Spelling, grammar, style, and readability linter.
 
+This example setup is used for https://github.com/svx/demo.
+
 ## Features
 
 Flexible English language linter with dozens of predefined checks.

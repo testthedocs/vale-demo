@@ -1,4 +1,3 @@
----
 extends: existence
 message: "'%s' is not comparable"
 ignorecase: true

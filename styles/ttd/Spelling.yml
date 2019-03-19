@@ -4,9 +4,9 @@ message: "Did you really mean '%s'?"
 level: error
 custom: true
 ignore:
-  - plone/tech-terms/security.txt
-  - plone/tech-terms/devops.txt
-  - plone/tech-terms/general.txt
-  - plone/tech-terms/techwriting.txt
-  - plone/tech-terms/mobile.txt
-  - plone/tech-terms/plone.txt
+  - ttd/tech-terms/security.txt
+  - ttd/tech-terms/blockchain.txt
+  - ttd/tech-terms/devops.txt
+  - ttd/tech-terms/general.txt
+  - ttd/tech-terms/techwriting.txt
+  - ttd/tech-terms/mobile.txt
